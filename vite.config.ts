@@ -5,10 +5,10 @@ import path from 'path';
 // https://vite.dev/config/
 export default defineConfig({
   //Localhost
-  base: './',
+  // base: './',
 
   //Deploy
-  // base: '/project-000-948/',
+  base: '/project-000-983/',
 
   plugins: [react()],
   resolve: {
