@@ -1,0 +1,8 @@
+.background-effect {
+  position: fixed;
+  top: 0;
+  z-index: -2;
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
+}
