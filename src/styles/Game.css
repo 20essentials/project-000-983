@@ -21,7 +21,7 @@ button {
 
 .hole:after {
   display: block;
-  background: url(assets/dirt.svg) bottom center no-repeat;
+  background: url(/assets/dirt.svg) bottom center no-repeat;
   background-size: contain;
   content: '';
   width: 100%;
@@ -32,7 +32,7 @@ button {
 }
 
 .mole {
-  background: url('assets/mole.svg') bottom center no-repeat;
+  background: url('/assets/mole.svg') bottom center no-repeat;
   background-size: 60%;
   position: absolute;
   top: 100%;
